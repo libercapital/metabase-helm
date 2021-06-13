@@ -17,3 +17,19 @@ entries:
     urls:
     - https://github.com/libercapital/metabase-helm/releases/download/0.1/metabase-0.1.tgz
     version: 0.1.0
+  - apiVersion: v1
+    appVersion: v0.36.3
+    created: "2021-06-13T09:47:40.713382354Z"
+    description: The easy, open source way for everyone in your company to ask questions and learn from data.
+    digest: 66308284d91da086f43bc56c62292f5081d2e034e4c5a727a399a5a526d91f73
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: infra@libercapital.com.br
+      name: Liber SRE team
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://github.com/libercapital/metabase-helm/releases/download/0.2/metabase-0.2.tgz
+    version: 0.2.0
